@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DankPyon_Ale.label>hydromel</DankPyon_Ale.label>
+	<DankPyon_Ale.description>Boisson fermentée à la couleur dorée profonde, véritable élément vital de la vie sociale de ces régions. Quelques tasses dans la taverne suffisent pour oublier les difficultés du travail des champs, les dangers qui vous attendent sur la route ou les vœux de mariage inconsidérés. Laissez la brume chaude de l’ivresse vous embrasser, sans vous soucier de rien. Pas aujourd'hui.</DankPyon_Ale.description>
+	<DankPyon_Ale.ingestible.ingestCommandString>Boire {0}</DankPyon_Ale.ingestible.ingestCommandString>
+	<DankPyon_Ale.ingestible.ingestReportString>Boire {0}.</DankPyon_Ale.ingestible.ingestReportString>
+
+</LanguageData>

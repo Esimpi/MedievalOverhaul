@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Wine.label>vinho</DankPyon_Wine.label>
+  <DankPyon_Wine.description>Licor de muitas faces. As safras antigas são bebidas deliciosas destinadas a conhecedores e línguas exigentes - posição obrigatória em festas reais e festas de máscaras. Os mais recentes costumam ser vendidos aos camponeses em pousadas à beira da estrada, diluídos em água tanto quanto a consciência dos taverneiro permite.</DankPyon_Wine.description>
+  <DankPyon_Wine.tools.0.label>garrafa</DankPyon_Wine.tools.0.label>
+  <DankPyon_Wine.tools.1.label>gargalo</DankPyon_Wine.tools.1.label>
+  <DankPyon_Wine.ingestible.ingestCommandString>Beber {0}</DankPyon_Wine.ingestible.ingestCommandString>
+  <DankPyon_Wine.ingestible.ingestReportString>Bebendo {0}.</DankPyon_Wine.ingestible.ingestReportString>
+
+  <DankPyon_MustWine.label>mosto de uva</DankPyon_MustWine.label>
+  <DankPyon_MustWine.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_MustWine.description>
+
+	<!--================== Mulberry Wine ==================-->
+
+	<DankPyon_Wine_Mulberry.label>mosto de uva</DankPyon_Wine_Mulberry.label>
+	<DankPyon_Wine_Mulberry.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_Wine_Mulberry.description>
+
+	<DankPyon_MustWine_Mulberry.label>mosto de uva</DankPyon_MustWine_Mulberry.label>
+	<DankPyon_MustWine_Mulberry.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_MustWine_Mulberry.description>
+
+	<!-- ================== Griffon Wine ================== -->
+
+	<DankPyon_Wine_Griffon.label>griffon wine</DankPyon_Wine_Griffon.label>
+	<DankPyon_Wine_Griffon.description>Produced from the luscious bounty of mulberry orchards, often associated with the mulberry tree's role in nurturing silk worms. Aged vintages whisper tales of sophistication, beckoning connoisseurs with their intricate flavors, a staple of esteemed gatherings and royal banquets.</DankPyon_Wine_Griffon.description>
+
+	<DankPyon_MustWine_Griffon.label>griffon berry must</DankPyon_MustWine_Griffon.label>
+	<DankPyon_MustWine_Griffon.description>Crushed griffon berries. Needs to undergo fermentation in a rustic fermenting barrel in order to become wine.</DankPyon_MustWine_Griffon.description>
+	
+		<!--================== Ice Wine ==================-->
+
+	<DankPyon_Wine_Ice.label>ice wine</DankPyon_Wine_Ice.label>
+	<DankPyon_Wine_Ice.description>Crafted from the rare frostberries, is a sought-after elixir known for its enchanting qualities. The frostberries, harvested during the first winter's frost, yield a wine with a crisp, sweet flavor and a hint of winter's chill. Ice Wine imparts a subtle frost resistance to those who drink it, fortifying them against the harshest cold. This magical beverage is a favorite among adventurers and travelers braving icy terrains, offering both warmth and protection in a single, refreshing sip.</DankPyon_Wine_Ice.description>
+
+	<DankPyon_MustWine_Ice.label>ice wine must</DankPyon_MustWine_Ice.label>
+	<DankPyon_MustWine_Ice.description>Crushed frostberries. Needs to undergo fermentation in a rustic fermenting barrel in order to become wine.</DankPyon_MustWine_Ice.description>
+
+
+</LanguageData>

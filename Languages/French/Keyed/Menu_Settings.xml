@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Menu Title -->
+	<MedievalOverhaul.ModNameShort>Medieval Overhaul</MedievalOverhaul.ModNameShort>
+
+	<!-- Production Chain Options -->
+	<DankPyon_Settings_ProductionChain>Options de chaîne de production</DankPyon_Settings_ProductionChain>
+	<DankPyon_Settings_LeatherChain>Chaîne de production du cuir :</DankPyon_Settings_LeatherChain>
+	<DankPyon_Settings_WoodChain>Chaîne de production de bois :</DankPyon_Settings_WoodChain>
+	<DankPyon_Settings_ClothChain>Chaîne de production de tissu :</DankPyon_Settings_ClothChain>
+
+	<!-- Map Generation Stuff -->
+	<DankPyon_Settings_MapGen>Options de génération de carte</DankPyon_Settings_MapGen>
+	<DankPyon_Settings_IndustrialJunk>Supprimez les déchets industriels Vanilla lors de la création de la carte :</DankPyon_Settings_IndustrialJunk>
+	<DankPyon_Settings_ExostriderRemains>Supprimez les objets de l'extension Biotech lors de la création de la carte :</DankPyon_Settings_ExostriderRemains>
+	<DankPyon_Settings_HornetNest>Supprimez les nids de frelons lors de la création de la carte :</DankPyon_Settings_HornetNest>
+	<DankPyon_Settings_VanillaMine>Restaurer les éléments minables vanilla :</DankPyon_Settings_VanillaMine>
+
+	<!-- Misc. Settings -->
+	<DankPyon_Settings_MiscOption>Paramètres divers</DankPyon_Settings_MiscOption>
+	<DankPyon_Settings_RefuelableTorch>Supprimer la demande de carburant des torches :</DankPyon_Settings_RefuelableTorch>
+	<DankPyon_Settings_BoomalopeTar>Remplacez le chemfuel par du goudron de Boomalopes et d'animaux similaires :</DankPyon_Settings_BoomalopeTar>
+	<DankPyon_Settings_MealRetexture>Remplacez les textures de la nourriture vanilla</DankPyon_Settings_MealRetexture>
+	<DankPyon_Settings_SchematicRework>Remplacez la construction de schémas par un analyseur de style biotech :</DankPyon_Settings_SchematicRework>
+
+</LanguageData>

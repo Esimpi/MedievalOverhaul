@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DankPyon_Cider.label>Cidre</DankPyon_Cider.label>
+	<DankPyon_Cider.description>Jus de pomme fermenté quelques jours pour développer son degré alcoolique. Consommer suffisamment de cidre peut vous enivrer.</DankPyon_Cider.description>
+	<DankPyon_Cider.ingestible.ingestCommandString>Boire {0}</DankPyon_Cider.ingestible.ingestCommandString>
+	<DankPyon_Cider.ingestible.ingestReportString>Boire {0}.</DankPyon_Cider.ingestible.ingestReportString>
+
+</LanguageData>
+

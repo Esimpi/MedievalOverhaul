@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_GriffonBody.label>Griffon</DankPyon_GriffonBody.label>
+	<DankPyon_GriffonBody.corePart.parts.0.Lung.customLabel>Poumon gauche</DankPyon_GriffonBody.corePart.parts.0.Lung.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.0.Lung.customLabel>poumon droit</DankPyon_GriffonBody.corePart.parts.0.Lung.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.0.Kidney.customLabel>rein gauche</DankPyon_GriffonBody.corePart.parts.0.Kidney.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.0.Kidney.customLabel>rein droit</DankPyon_GriffonBody.corePart.parts.0.Kidney.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.0.Parts.0.parts.0.Eye.customLabel></DankPyon_GriffonBody.corePart.parts.0.Parts.0.parts.0.Eye.customLabel>
+	
+	
+  <DankPyon_GriffonBody.corePart.parts.1.parts.0.parts.0.customLabel>olho de cristal esquerdo</DankPyon_GriffonBody.corePart.parts.1.parts.0.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.1.parts.0.parts.1.customLabel>olho de cristal direito</DankPyon_GriffonBody.corePart.parts.1.parts.0.parts.1.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.customLabel>ombro esquerdo</DankPyon_GriffonBody.corePart.parts.2.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.customLabel>braço esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.customLabel>mão esquerda</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>mindinho esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>dedo anelar esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>dedo médio esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>dedo indicador esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>polegar esquerdo</DankPyon_GriffonBody.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.customLabel>ombro direito</DankPyon_GriffonBody.corePart.parts.3.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.customLabel>braço direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.customLabel>mão direita</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>mindinho direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>dedo anelar direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>dedo médio direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>dedo indicador direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>polegar direito</DankPyon_GriffonBody.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.5.customLabel>perna esquerda</DankPyon_GriffonBody.corePart.parts.5.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.5.parts.0.customLabel>pé esquerdo</DankPyon_GriffonBody.corePart.parts.5.parts.0.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.6.customLabel>perna direita</DankPyon_GriffonBody.corePart.parts.6.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.6.parts.0.customLabel>pé direito</DankPyon_GriffonBody.corePart.parts.6.parts.0.customLabel>
+
+</LanguageData>

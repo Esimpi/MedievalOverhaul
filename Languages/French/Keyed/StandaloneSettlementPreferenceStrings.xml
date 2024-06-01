@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="XSD_FILE_PATH">
+	
+
+	<StandaloneSettlementPreference_ModName>Réglage de la colonie</StandaloneSettlementPreference_ModName>
+	<StandaloneSettlementPreference_ResetSettings>Réinitialiser les options</StandaloneSettlementPreference_ResetSettings>
+
+	<StandaloneSettlementPreference_Logging>Activer les messages dans le journal pour la colonie</StandaloneSettlementPreference_Logging>
+	<StandaloneSettlementPreference_LoggingTooltip>Active quelques messages dans le journal pour le patch Harmony les réglages de la colonie. Ceux-ci apparaîtront lors de la création du monde, lorsque les factions s'installeront dans le monde, et pourront aider à diagnostiquer tout problème pouvant survenir.</StandaloneSettlementPreference_LoggingTooltip>
+	<StandaloneSettlementPreference_LoggingExtended>Activer les messages dans le journal supplémentaires pour les réglages de la colonie</StandaloneSettlementPreference_LoggingExtended>
+	<StandaloneSettlementPreference_LoggingExtendedTooltip>Active des messages de journal supplémentaires pour le correctif Harmony des réglages de la colonie. Ceux-ci apparaîtront lors de la création du monde, lorsque les factions s'installeront dans le monde, et pourront aider à diagnostiquer tout problème pouvant survenir.\n\n Ces messages rempliront rapidement le journal. Il est recommandé de n'activer qu'une seule faction à la fois lors de son utilisation.</StandaloneSettlementPreference_LoggingExtendedTooltip>
+	<StandaloneSettlementPreference_EnableSettlementPreference>Activer le patch Harmony pour le réglage de la colonie</StandaloneSettlementPreference_EnableSettlementPreference>
+	<StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>Si cette option est activée, les factions qui ont l'extension de mod de réglage de colonie seront plus susceptibles de s'installer dans des endroits spécifiques.\n\n Cela peut être activé à tout moment, mais nécessitera évidemment un nouveau monde pour prendre effet.\n\n Cela affecte :</StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>
+	<StandaloneSettlementPreference_Iterations>Nombre maximum d'itérations pour les réglages de la colonie</StandaloneSettlementPreference_Iterations>
+	<StandaloneSettlementPreference_IterationsTooltip>Si la préférence de colonisation ne parvient pas à trouver une tuile souhaitable dans ce nombre d'itérations, elle restituera le contrôle à Rim World.\n\n Diminuer cette valeur peut améliorer les temps de génération du monde, tandis que l'augmenter peut permettre des emplacements de colonisation plus souhaitables.</StandaloneSettlementPreference_IterationsTooltip>
+
+</LanguageData>

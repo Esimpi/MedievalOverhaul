@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <EEG.SelectQuest>La quête ciblée actuelle est : {0}\n\n Cliquez pour sélectionner une autre quête.</EEG.SelectQuest>
+    <EEG.ScanningProgress>Progression de la recherche</EEG.ScanningProgress>
+    <EEG.SearchingFor>À la recherche de</EEG.SearchingFor>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DankPyon_Damage_BallistaBolt.label>fragment de flèche</DankPyon_Damage_BallistaBolt.label>
+	<DankPyon_Damage_BallistaBolt.deathMessage>{0} a été empalé à mort par une flèche de baliste.</DankPyon_Damage_BallistaBolt.deathMessage>
+
+	<DankPyon_Boulder.label>Rocher</DankPyon_Boulder.label>
+	<DankPyon_Boulder.deathMessage>{0} a été écrasé à mort par un rocher.</DankPyon_Boulder.deathMessage>
+
+	<DankPyon_BoulderTarred.label>Rocher</DankPyon_BoulderTarred.label>
+	<DankPyon_BoulderTarred.deathMessage>{0} a été écrasé à mort par un rocher.</DankPyon_BoulderTarred.deathMessage>
+
+	<DankPyon_SchratCollapse.label>effondrement de shrat</DankPyon_SchratCollapse.label>
+	<DankPyon_SchratCollapse.deathMessage>{0} a été écrasé à mort par la trompe d'un schrat.</DankPyon_SchratCollapse.deathMessage>
+	
+	<DankPyon_LindwurmAcid.label>Morsure de ver de Lindwurm</DankPyon_LindwurmAcid.label>
+	<DankPyon_LindwurmAcidBurn.label>Brûlure acide de Lindwurm</DankPyon_LindwurmAcidBurn.label>
+
+	<DankPyon_Swallow.label>avaler tout entier</DankPyon_Swallow.label>
+	<DankPyon_Swallow.deathMessage>{0} a été mordu à mort.</DankPyon_Swallow.deathMessage>
+
+	<DankPyon_Daze.label>Hébété</DankPyon_Daze.label>
+
+</LanguageData>

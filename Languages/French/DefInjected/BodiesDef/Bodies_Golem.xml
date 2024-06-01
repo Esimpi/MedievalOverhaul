@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Golem.label>golem</DankPyon_Golem.label>
+  <DankPyon_Golem.corePart.parts.1.parts.0.parts.0.customLabel>oeil de cristal gauche</DankPyon_Golem.corePart.parts.1.parts.0.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.1.parts.0.parts.1.customLabel>oeil de cristal droit</DankPyon_Golem.corePart.parts.1.parts.0.parts.1.customLabel>
+  <DankPyon_Golem.corePart.parts.2.customLabel>épaule gauche</DankPyon_Golem.corePart.parts.2.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.customLabel>bras gauche</DankPyon_Golem.corePart.parts.2.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.customLabel>main gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>Auriculaire gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>annulaire gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>majeur gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>index gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>pouce gauche</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>
+  <DankPyon_Golem.corePart.parts.3.customLabel>épaule droite</DankPyon_Golem.corePart.parts.3.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.customLabel>bras droit</DankPyon_Golem.corePart.parts.3.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.customLabel>main droite</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>Auriculaire droit</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>annulaire droit</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>majeur droit</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>index droit</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>
+  <DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>pouce droit</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>
+  <DankPyon_Golem.corePart.parts.5.customLabel>la jambe gauche</DankPyon_Golem.corePart.parts.5.customLabel>
+  <DankPyon_Golem.corePart.parts.5.parts.0.customLabel>pied gauche</DankPyon_Golem.corePart.parts.5.parts.0.customLabel>
+  <DankPyon_Golem.corePart.parts.6.customLabel>jambe droite</DankPyon_Golem.corePart.parts.6.customLabel>
+  <DankPyon_Golem.corePart.parts.6.parts.0.customLabel>pied droit</DankPyon_Golem.corePart.parts.6.parts.0.customLabel>
+
+</LanguageData>
