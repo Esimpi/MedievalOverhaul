@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <DankPyon_MakeTanningLiquorBase.jobString>Boiling wood into 6 tanning liquor.</DankPyon_MakeTanningLiquorBase.jobString>
+
   <MakeTanningLiquorFromWood.label>criar secreção de curtimento com madeira x6</MakeTanningLiquorFromWood.label>
   <MakeTanningLiquorFromWood.description>Crie secreção de curtimento usando madeira.</MakeTanningLiquorFromWood.description>
-  <MakeTanningLiquorFromWood.jobString>Criando secreção de curtimento x6.</MakeTanningLiquorFromWood.jobString>
 
   <DankPyon_MakeTanningLiquorFromFood.label>criar secreção de curtimento com vegetal x6</DankPyon_MakeTanningLiquorFromFood.label>
   <DankPyon_MakeTanningLiquorFromFood.description>Crie secreção de curtimento usando vegetal.</DankPyon_MakeTanningLiquorFromFood.description>
@@ -13,6 +14,23 @@
   <DankPyon_MakeTanningLiquorFromMeat.description>Crie secreção de curtimento usando carne.</DankPyon_MakeTanningLiquorFromMeat.description>
   <DankPyon_MakeTanningLiquorFromMeat.jobString>Criando secreção de curtimento x6.</DankPyon_MakeTanningLiquorFromMeat.jobString>
 
+ 	<!-- 10X -->
+  
+  <DankPyon_MakeTanningLiquorBase10X.jobString>Boiling wood into 60 tanning liquor.</DankPyon_MakeTanningLiquorBase10X.jobString>
+
+  <MakeTanningLiquorFromWood10X.label>make tanning liquor from wood (10X)</MakeTanningLiquorFromWood10X.label>
+  <MakeTanningLiquorFromWood10X.description>Make a batch of tanning liquor using the bark and wood contents from logs.</MakeTanningLiquorFromWood10X.description>
+
+  <DankPyon_MakeTanningLiquorFromFood10X.label>make tanning liquor from plants (10X)</DankPyon_MakeTanningLiquorFromFood10X.label>
+  <DankPyon_MakeTanningLiquorFromFood10X.description>Make a batch of tanning liquor using any organic ingredients known to harbor tannins.</DankPyon_MakeTanningLiquorFromFood10X.description>
+  <DankPyon_MakeTanningLiquorFromFood10X.jobString>Boiling plants into 60 tanning liquor.</DankPyon_MakeTanningLiquorFromFood10X.jobString>
+
+  <DankPyon_MakeTanningLiquorFromMeat10X.label>make tanning liquor from meat (10X)</DankPyon_MakeTanningLiquorFromMeat10X.label>
+  <DankPyon_MakeTanningLiquorFromMeat10X.description>Make a batch of tanning liquor using any organic ingredients known to harbor tannins.</DankPyon_MakeTanningLiquorFromMeat10X.description>
+  <DankPyon_MakeTanningLiquorFromMeat10X.jobString>Boiling meat into 60 tanning liquor.</DankPyon_MakeTanningLiquorFromMeat10X.jobString>
+
+
+<!--
   <DankPyon_TreatAnyHideTiny.label>tratar qualquer pele muito pequena</DankPyon_TreatAnyHideTiny.label>
   <DankPyon_TreatAnyHideTiny.description>Trate pele para se tornar couro utilizável.</DankPyon_TreatAnyHideTiny.description>
   <DankPyon_TreatAnyHideTiny.jobString>Tratando pele muito pequena.</DankPyon_TreatAnyHideTiny.jobString>
@@ -31,6 +49,6 @@
 
   <DankPyon_TreatAnyHideHuge.label>tratar qualquer pele enorme</DankPyon_TreatAnyHideHuge.label>
   <DankPyon_TreatAnyHideHuge.description>Trate pele para se tornar couro utilizável.</DankPyon_TreatAnyHideHuge.description>
-  <DankPyon_TreatAnyHideHuge.jobString>Tratando pele enorme.</DankPyon_TreatAnyHideHuge.jobString>
+  <DankPyon_TreatAnyHideHuge.jobString>Tratando pele enorme.</DankPyon_TreatAnyHideHuge.jobString>  -->
 
 </LanguageData>

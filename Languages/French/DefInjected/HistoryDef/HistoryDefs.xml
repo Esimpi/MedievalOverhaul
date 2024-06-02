@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-  
-	<HistoryEventDef>
-		<defName>DankPyon_AteSlop</defName>
-		<label>ate slop</label>
-	</HistoryEventDef>
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
-</Defs>
+	<DankPyon_AteSlop.label>ate slop</DankPyon_AteSlop.label>
+
+</LanguageData>

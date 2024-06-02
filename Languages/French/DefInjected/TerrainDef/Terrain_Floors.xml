@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_PlowedSoil.label>solo arado</DankPyon_PlowedSoil.label>
-  <DankPyon_PlowedSoil.description>Melhore o solo para aumentar sua fertilidade.</DankPyon_PlowedSoil.description>
-  <DankPyon_PlowedSoil.tools.0.label>solo</DankPyon_PlowedSoil.tools.0.label>
+  <DankPyon_PlowedSoil.label>plowed soil</DankPyon_PlowedSoil.label>
+  <DankPyon_PlowedSoil.description>Mlow the soil to increase its fertility.</DankPyon_PlowedSoil.description>
+  <DankPyon_PlowedSoil.tools.0.label>dirt</DankPyon_PlowedSoil.tools.0.label>
+
+  <IronTile.label>iron tile</IronTile.label>
+  <IronTile.description>Iron tiles, for that rugged look. They are quick to clean and get a small bonus to cleanliness for use in medical settings.</IronTile.description>
 
 </LanguageData>

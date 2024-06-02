@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-
-	<RulePackDef>
-
-		<defName>DankPyon_AncientLore_Description</defName>
-		<include>
-			<li>ArtDescriptionUtility_Global</li>
-		</include>
-		<rulePack>
-			<rulesStrings>
-			
-			<li>subject->[subject_primary]</li> 
+<!--suppress ALL -->
+<LanguageData>
+	
+	<DankPyon_AncientLore_Description.rulePack.rulesStrings>
+       
+        <li>subject->[subject_primary]</li> 
             <!-- Root: Description -->
             <li>desc->[writingQualityAdjective] [bookType] [exploresAncientTechOn] [subject_primary]. [writingQualitySentence]. [maybe_date]</li>
 
@@ -86,8 +80,6 @@
             <li>bookType->inscription</li>
             <li>bookType->codex</li>
 
-        </rulesStrings>
-    </rulePack>
-</RulePackDef>
-
-</Defs>
+	</DankPyon_AncientLore_Description.rulePack.rulesStrings>
+	
+</LanguageData>

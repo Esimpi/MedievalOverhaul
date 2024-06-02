@@ -7,9 +7,9 @@
   <DankPyon_MakeTallow.description>Use a gordura para fazer sebo.</DankPyon_MakeTallow.description>
   <DankPyon_MakeTallow.jobString>Criando sebo.</DankPyon_MakeTallow.jobString>
 
-  <DankPyon_MakeTallowBulk.label>criar sebo x10</DankPyon_MakeTallowBulk.label>
+  <DankPyon_MakeTallowBulk.label>criar sebo x5</DankPyon_MakeTallowBulk.label>
   <DankPyon_MakeTallowBulk.description>Use a gordura para fazer sebo.</DankPyon_MakeTallowBulk.description>
-  <DankPyon_MakeTallowBulk.jobString>Criando sebo x10.</DankPyon_MakeTallowBulk.jobString>
+  <DankPyon_MakeTallowBulk.jobString>Criando sebo x5.</DankPyon_MakeTallowBulk.jobString>
 
   <DankPyon_MakeSpice.label>criar tempero</DankPyon_MakeSpice.label>
   <DankPyon_MakeSpice.description>Crie tempero com especiarias.</DankPyon_MakeSpice.description>
@@ -47,6 +47,10 @@
   <DankPyon_BakeBreadBulk.description>Asse pão com farinha.</DankPyon_BakeBreadBulk.description>
   <DankPyon_BakeBreadBulk.jobString>Assando pão x10.</DankPyon_BakeBreadBulk.jobString>
 
+  <DankPyon_BakeBreadMegaBulk.label>asse pão x100</DankPyon_BakeBreadMegaBulk.label>
+  <DankPyon_BakeBreadMegaBulk.description>Bake 100 breads from flour.</DankPyon_BakeBreadMegaBulk.description>
+  <DankPyon_BakeBreadMegaBulk.jobString>Assando pão x100.</DankPyon_BakeBreadMegaBulk.jobString>
+
 
   <!-- Sausages -->
 
@@ -76,20 +80,20 @@
   <DankPyon_CookMealGrilledSausagesBulk.jobString>Grelhando linguiça x5.</DankPyon_CookMealGrilledSausagesBulk.jobString>
 
 
-  <!-- Weak Stew -->
+  <!-- Weak Stew 
 
   <DankPyon_CookMealWeakStew.label>cozinhar ensopado fraco x4</DankPyon_CookMealWeakStew.label>
   <DankPyon_CookMealWeakStew.description>Cozinhe ensopado fraco com pouco ingrediente.</DankPyon_CookMealWeakStew.description>
   <DankPyon_CookMealWeakStew.jobString>Cozinhar ensopado fraco x4.</DankPyon_CookMealWeakStew.jobString>
 
-
-  <!-- Weak Stew Bulk -->
+-->
+  <!-- Weak Stew Bulk
 
   <DankPyon_CookMealWeakStewBulk.label>cozinhar ensopado fraco x8</DankPyon_CookMealWeakStewBulk.label>
   <DankPyon_CookMealWeakStewBulk.description>Cozinhe ensopado fraco com pouco ingrediente.</DankPyon_CookMealWeakStewBulk.description>
   <DankPyon_CookMealWeakStewBulk.jobString>Cozinhando ensopado fraco x8.</DankPyon_CookMealWeakStewBulk.jobString>
 
-
+ -->
   <!-- Fried Eggs -->
 
   <DankPyon_CookMealFriedEggs.label>fritar ovo frito</DankPyon_CookMealFriedEggs.label>
@@ -202,20 +206,20 @@
   <DankPyon_CookMealGrilledSkewersBulk.jobString>Grelhando espeto de carne x5.</DankPyon_CookMealGrilledSkewersBulk.jobString>
 
 
-  <!-- Hearty Stew -->
+  <!-- Hearty Stew 
 
   <DankPyon_CookMealHeartyStew.label>cozinhar ensopado saudável</DankPyon_CookMealHeartyStew.label>
   <DankPyon_CookMealHeartyStew.description>Cozinhe uma refeição um tanto complexa com uma combinação de carne e vegetais.</DankPyon_CookMealHeartyStew.description>
   <DankPyon_CookMealHeartyStew.jobString>Cozinhando um ensopado saudável.</DankPyon_CookMealHeartyStew.jobString>
+-->
 
-
-  <!-- Hearty Stew Bulk -->
+  <!-- Hearty Stew Bulk 
 
   <DankPyon_CookMealHeartyStewBulk.label>cozinhar ensopado saudável x8</DankPyon_CookMealHeartyStewBulk.label>
   <DankPyon_CookMealHeartyStewBulk.description>Cozinhe ensopado saudável.</DankPyon_CookMealHeartyStewBulk.description>
   <DankPyon_CookMealHeartyStewBulk.jobString>Cozinhando ensopado saudável x8.</DankPyon_CookMealHeartyStewBulk.jobString>
 
-
+-->
   <!-- Bread Soup -->
 
   <DankPyon_CookMealBreadSoup.label>cozinhar sopa com pão</DankPyon_CookMealBreadSoup.label>
@@ -242,6 +246,24 @@
   <DankPyon_CookMealApplePieBulk.label>assar torta de maçã x5</DankPyon_CookMealApplePieBulk.label>
   <DankPyon_CookMealApplePieBulk.description>Asse uma bela torta de maçã.</DankPyon_CookMealApplePieBulk.description>
   <DankPyon_CookMealApplePieBulk.jobString>Assando torta de maçã x5.</DankPyon_CookMealApplePieBulk.jobString>
+
+    <!-- Lemon Cake -->
+
+    <DankPyon_CookMealLemonCake.label>bake lemon cake</DankPyon_CookMealLemonCake.label>
+    <DankPyon_CookMealLemonCake.description>Bake a lemon cake.</DankPyon_CookMealLemonCake.description>
+    <DankPyon_CookMealLemonCake.jobString>Baking lemon cake.</DankPyon_CookMealLemonCake.jobString>
+  
+  
+    <!-- Lemon Cake Bulk -->
+  
+    <DankPyon_CookMealLemonCakeBulk.label>bake lemon cake x5</DankPyon_CookMealLemonCakeBulk.label>
+    <DankPyon_CookMealLemonCakeBulk.description>Bake 5 lemon cakes.</DankPyon_CookMealLemonCakeBulk.description>
+    <DankPyon_CookMealLemonCakeBulk.jobString>Baking x5 lemon cakes.</DankPyon_CookMealLemonCakeBulk.jobString>
+
+    <DankPyon_CookMealLemonCakeBulkier.label>bake lemon cake x15</DankPyon_CookMealLemonCakeBulkier.label>
+    <DankPyon_CookMealLemonCakeBulkier.description>Bake 15 lemon cakes.</DankPyon_CookMealLemonCakeBulkier.description>
+    <DankPyon_CookMealLemonCakeBulkier.jobString>Baking x15 lemon cakes.</DankPyon_CookMealLemonCakeBulkier.jobString>
+  
 
 
   <!-- Hunters Stew -->
@@ -284,6 +306,10 @@
   <DankPyon_CookMealQuicheBulk.label>cozinhar quiches x5</DankPyon_CookMealQuicheBulk.label>
   <DankPyon_CookMealQuicheBulk.description>Cozinhe quiches.</DankPyon_CookMealQuicheBulk.description>
   <DankPyon_CookMealQuicheBulk.jobString>Cozinhando quiches x5.</DankPyon_CookMealQuicheBulk.jobString>
+
+  <DankPyon_CookMealQuicheBulkier.label>cozinhar quiches x15</DankPyon_CookMealQuicheBulkier.label>
+  <DankPyon_CookMealQuicheBulkier.description>Cozinhe quiches.</DankPyon_CookMealQuicheBulkier.description>
+  <DankPyon_CookMealQuicheBulkier.jobString>Cozinhando quiches x15.</DankPyon_CookMealQuicheBulkier.jobString>
 
 
   <!-- Sweet Pancakes -->
@@ -342,6 +368,33 @@
   <DankPyon_CookMealPumpkinPieBulk.jobString>Cozinhando torta de abóbora x6.</DankPyon_CookMealPumpkinPieBulk.jobString>
 
 
+  <!-- Pumpkin Pie Bulkier -->
+
+  <DankPyon_CookMealPumpkinPieBulkier.label>cozinhar torta de abóbora x18</DankPyon_CookMealPumpkinPieBulkier.label>
+  <DankPyon_CookMealPumpkinPieBulkier.description>Cozinhe torta de abóbora.</DankPyon_CookMealPumpkinPieBulkier.description>
+  <DankPyon_CookMealPumpkinPieBulkier.jobString>Cozinhando torta de abóbora x18.</DankPyon_CookMealPumpkinPieBulkier.jobString>
+
+
+    <!-- Carrot Cake -->
+
+    <DankPyon_CookMealCarrotCake.label>bake carrot cake x3</DankPyon_CookMealCarrotCake.label>
+    <DankPyon_CookMealCarrotCake.description>Bake 3 arrot cakes.</DankPyon_CookMealCarrotCake.description>
+    <DankPyon_CookMealCarrotCake.jobString>Baking 3 arrot cakes.</DankPyon_CookMealCarrotCake.jobString>
+  
+  
+    <!-- Carrot Cake Bulk -->
+  
+    <DankPyon_CookMealCarrotCakeBulk.label>bake carrot cake x6</DankPyon_CookMealCarrotCakeBulk.label>
+    <DankPyon_CookMealCarrotCakeBulk.description>Bake 6 arrot cakes.</DankPyon_CookMealCarrotCakeBulk.description>
+    <DankPyon_CookMealCarrotCakeBulk.jobString>Baking 6 arrot cakes.</DankPyon_CookMealCarrotCakeBulk.jobString>
+  
+  
+    <!-- Carrot Cake Bulkier -->
+  
+    <DankPyon_CookMealCarrotCakeBulkier.label>bake carrot cake x18</DankPyon_CookMealCarrotCakeBulkier.label>
+    <DankPyon_CookMealCarrotCakeBulkier.description>Bake 18 arrot cakes.</DankPyon_CookMealCarrotCakeBulkier.description>
+    <DankPyon_CookMealCarrotCakeBulkier.jobString>Baking 18 arrot cakes.</DankPyon_CookMealCarrotCakeBulkier.jobString>
+
   <!-- Cheese Soup -->
 
   <DankPyon_CookMealCheeseSoup.label>cozinhar sopa de queijo</DankPyon_CookMealCheeseSoup.label>
@@ -398,4 +451,9 @@
   <DankPyon_CookMealGriffonBerryPieBulk.jobString>Assando torta de griffon x3.</DankPyon_CookMealGriffonBerryPieBulk.jobString>
 
 
+    <!-- Griffon Berry Pie Bulkier -->
+
+    <DankPyon_CookMealGriffonBerryPieBulkier.label>assar tortas de griffon x9</DankPyon_CookMealGriffonBerryPieBulkier.label>
+    <DankPyon_CookMealGriffonBerryPieBulkier.description>Asse torta de griffon com bagas.</DankPyon_CookMealGriffonBerryPieBulkier.description>
+    <DankPyon_CookMealGriffonBerryPieBulkier.jobString>Assando torta de griffon x9.</DankPyon_CookMealGriffonBerryPieBulkier.jobString>
 </LanguageData>

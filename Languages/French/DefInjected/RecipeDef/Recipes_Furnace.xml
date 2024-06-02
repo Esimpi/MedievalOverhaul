@@ -1,63 +1,85 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <DankPyon_ExtractMetalFromScrap.label>smelt metal from scrap</DankPyon_ExtractMetalFromScrap.label>
+  <DankPyon_ExtractMetalFromScrap.description>Use heat and strong electromagnets to extract useful metal from scrap.</DankPyon_ExtractMetalFromScrap.description>
+  <DankPyon_ExtractMetalFromScrap.jobString>Smelting metal from slag.</DankPyon_ExtractMetalFromScrap.jobString>
+
+  <DankPyon_Make_Tar.label>make tar from wood x5</DankPyon_Make_Tar.label>
+  <DankPyon_Make_Tar.description>Make a batch of tar by burning wood.</DankPyon_Make_Tar.description>
+  <DankPyon_Make_Tar.jobString>Burning 10 wood into 5 tar.</DankPyon_Make_Tar.jobString>
+
+  <DankPyon_Make_TarBulk.label>make tar from wood x25</DankPyon_Make_TarBulk.label>
+  <DankPyon_Make_TarBulk.description>Make a batch of tar by burning wood.</DankPyon_Make_TarBulk.description>
+  <DankPyon_Make_TarBulk.jobString>Burning 50 wood into 25 tar.</DankPyon_Make_TarBulk.jobString>
+
+  <!-- Coal -->
+
+  <DankPyon_MakeChunk_Coal.label>make charcoal from wood</DankPyon_MakeChunk_Coal.label>
+  <DankPyon_MakeChunk_Coal.description>Make a batch of coal by burning wood.</DankPyon_MakeChunk_Coal.description>
+  <DankPyon_MakeChunk_Coal.jobString>Burning wood into coal.</DankPyon_MakeChunk_Coal.jobString>
+  
+  <!-- Ingots: Base Class -->
+
+  <DankPyon_SmelterBase.description>Smelts raw ores into usuable ingots.</DankPyon_SmelterBase.description>
+  
+  
   <!-- Iron Ingots -->
 
   <DankPyon_MakeIngots_Iron.label>criar lingote de ferro</DankPyon_MakeIngots_Iron.label>
-  <DankPyon_MakeIngots_Iron.description>Funde minério bruto em lingote de ferro.</DankPyon_MakeIngots_Iron.description>
   <DankPyon_MakeIngots_Iron.jobString>Criando lingote de ferro.</DankPyon_MakeIngots_Iron.jobString>
 
   <DankPyon_MakeIngots_IronBulk.label>criar lingote de ferro x30</DankPyon_MakeIngots_IronBulk.label>
-  <DankPyon_MakeIngots_IronBulk.description>Funde minério bruto em lingote de ferro.</DankPyon_MakeIngots_IronBulk.description>
   <DankPyon_MakeIngots_IronBulk.jobString>Criando lingote de ferro x30.</DankPyon_MakeIngots_IronBulk.jobString>
 
   <DankPyon_MakeIngots_IronExtraBulk.label>criar lingote de ferro x60</DankPyon_MakeIngots_IronExtraBulk.label>
-  <DankPyon_MakeIngots_IronExtraBulk.description>Funde minério bruto em lingote de ferro.</DankPyon_MakeIngots_IronExtraBulk.description>
   <DankPyon_MakeIngots_IronExtraBulk.jobString>Criando lingote de ferro x60.</DankPyon_MakeIngots_IronExtraBulk.jobString>
 
 
   <!-- Silver Ingots -->
 
   <DankPyon_MakeIngots_Silver.label>criar moeda</DankPyon_MakeIngots_Silver.label>
-  <DankPyon_MakeIngots_Silver.description>Funde minério de prata para fazer moeda.</DankPyon_MakeIngots_Silver.description>
   <DankPyon_MakeIngots_Silver.jobString>Criando moeda.</DankPyon_MakeIngots_Silver.jobString>
 
   <DankPyon_MakeCoins_SilverBulk.label>criar moeda x30</DankPyon_MakeCoins_SilverBulk.label>
-  <DankPyon_MakeCoins_SilverBulk.description>>Funde minério de prata para fazer moeda.</DankPyon_MakeCoins_SilverBulk.description>
   <DankPyon_MakeCoins_SilverBulk.jobString>Criando moeda x30.</DankPyon_MakeCoins_SilverBulk.jobString>
 
   <DankPyon_MakeCoin_SilverExtraBulk.label>criar moeda x60</DankPyon_MakeCoin_SilverExtraBulk.label>
-  <DankPyon_MakeCoin_SilverExtraBulk.description>>Funde minério de prata para fazer moeda.</DankPyon_MakeCoin_SilverExtraBulk.description>
   <DankPyon_MakeCoin_SilverExtraBulk.jobString>Criando moeda x60.</DankPyon_MakeCoin_SilverExtraBulk.jobString>
 
 
   <!-- Gold Ingots -->
 
   <DankPyon_MakeIngots_Gold.label>criar lingote de ouro</DankPyon_MakeIngots_Gold.label>
-  <DankPyon_MakeIngots_Gold.description>Funde minério bruto em lingote de ouro.</DankPyon_MakeIngots_Gold.description>
   <DankPyon_MakeIngots_Gold.jobString>Criando lingote de ouro.</DankPyon_MakeIngots_Gold.jobString>
 
   <DankPyon_MakeIngots_GoldBulk.label>criar lingote de ouro x30</DankPyon_MakeIngots_GoldBulk.label>
-  <DankPyon_MakeIngots_GoldBulk.description>Funde minério bruto em lingote de ouro.</DankPyon_MakeIngots_GoldBulk.description>
   <DankPyon_MakeIngots_GoldBulk.jobString>Criando lingote de ouro x30.</DankPyon_MakeIngots_GoldBulk.jobString>
 
   <DankPyon_MakeIngots_GoldExtraBulk.label>criar lingote de ouro x60</DankPyon_MakeIngots_GoldExtraBulk.label>
-  <DankPyon_MakeIngots_GoldExtraBulk.description>Funde minério bruto em lingote de ouro.</DankPyon_MakeIngots_GoldExtraBulk.description>
   <DankPyon_MakeIngots_GoldExtraBulk.jobString>Criando lingote de ouro x60.</DankPyon_MakeIngots_GoldExtraBulk.jobString>
 
 
   <!-- Steel Ingots -->
 
   <DankPyon_MakeIngots_Steel.label>refinar lingote de aço</DankPyon_MakeIngots_Steel.label>
-  <DankPyon_MakeIngots_Steel.description>Refina lingote de ferro em lingote de aço.</DankPyon_MakeIngots_Steel.description>
   <DankPyon_MakeIngots_Steel.jobString>Refinando lingote de aço.</DankPyon_MakeIngots_Steel.jobString>
 
   <DankPyon_MakeIngots_SteelBulk.label>refinar lingote de aço x30</DankPyon_MakeIngots_SteelBulk.label>
-  <DankPyon_MakeIngots_SteelBulk.description>Refina lingote de ferro em lingote de aço.</DankPyon_MakeIngots_SteelBulk.description>
   <DankPyon_MakeIngots_SteelBulk.jobString>Refinando lingote de aço x30.</DankPyon_MakeIngots_SteelBulk.jobString>
 
   <DankPyon_MakeIngots_SteelExtraBulk.label>refinar lingote de aço x60</DankPyon_MakeIngots_SteelExtraBulk.label>
-  <DankPyon_MakeIngots_SteelExtraBulk.description>Refina lingote de ferro em lingote de aço.</DankPyon_MakeIngots_SteelExtraBulk.description>
   <DankPyon_MakeIngots_SteelExtraBulk.jobString>Refinando lingote de aço x60.</DankPyon_MakeIngots_SteelExtraBulk.jobString>
+
+  <!-- Plasteel Ingots -->
+
+  <DankPyon_MakeIngots_Plasteel.label>refine raw plasteel into an ingot</DankPyon_MakeIngots_Plasteel.label>
+  <DankPyon_MakeIngots_Plasteel.jobString>Refining raw plasteel into 1 plasteel ingot.</DankPyon_MakeIngots_Plasteel.jobString>
+
+  <DankPyon_MakeIngots_PlasteelBulk.label>refine raw plasteel into 30 ingots</DankPyon_MakeIngots_PlasteelBulk.label>
+  <DankPyon_MakeIngots_PlasteelBulk.jobString>Refining raw plasteel into 30 plasteel ingot.</DankPyon_MakeIngots_PlasteelBulk.jobString>
+
+  <DankPyon_MakeIngots_PlasteelExtraBulk.label>refine raw plasteel into 60 ingots</DankPyon_MakeIngots_PlasteelExtraBulk.label>
+  <DankPyon_MakeIngots_PlasteelExtraBulk.jobString>Refining raw plasteel into 60 plasteel ingot.</DankPyon_MakeIngots_PlasteelExtraBulk.jobString>
 
 </LanguageData>

@@ -1,198 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	<!-- Predefined colors are way better, do not use paintable -->
-
-
-	<!-- Ceramic Floor Base -->
-	<TerrainDef Abstract="true" ParentName="FloorBase" Name="DankPyon_CeramicFloorBase">
-		<pollutionTintColor>(0.95, 0.95, 0.93, 1)</pollutionTintColor>
-		<isPaintable>false</isPaintable>
-
-		<statBases>
-			<WorkToBuild>5000</WorkToBuild>
-			<Beauty>4</Beauty>
-			<CleaningTimeFactor>0.8</CleaningTimeFactor>
-		</statBases>
-
-		<researchPrerequisites>
-			<li>Stonecutting</li>
-		</researchPrerequisites>
-		<tags>
-			<li>FineFloor</li>
-		</tags>
-		
-		<costList>
-			<DankPyon_Clay>20</DankPyon_Clay>
-		</costList>
-
-		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
-
-		<uiOrder>2080</uiOrder>
-		<renderPrecedence>220</renderPrecedence>
-	</TerrainDef>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
 
 	<!-- Lys Floor Base -->
-	<TerrainDef Abstract="true" ParentName="DankPyon_CeramicFloorBase" Name="DankPyon_Floor_Lys_Base">
-		<description>Exquisite stone tiles adorned with understated lily motifs, adding a touch of elegance and historical charm to any room. Slow to construct.</description>
-		<designatorDropdown>DankPyon_Floor_Lys</designatorDropdown>
-	</TerrainDef>
+
+    <DankPyon_Floor_Lys_Base.description>Exquisite stone tiles adorned with understated lily motifs, adding a touch of elegance and historical charm to any room. Slow to construct.</DankPyon_Floor_Lys_Base.description>
 
 	<!-- Lys Floor Defs-->
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Red</defName>
-		<label>red lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Red</texturePath>
-	</TerrainDef>
 
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Blue</defName>
-		<label>blue lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Blue</texturePath>
-	</TerrainDef>
+    <DankPyon_Floor_Lys_Red.label>red lys tile</DankPyon_Floor_Lys_Red.label>
+	<DankPyon_Floor_Lys_Blue.label>blue lys tile</DankPyon_Floor_Lys_Blue.label>
+	<DankPyon_Floor_Lys_Green.label>green lys tile</DankPyon_Floor_Lys_Green.label>
+	<DankPyon_Floor_Lys_Brown.label>brown lys tile</DankPyon_Floor_Lys_Brown.label>
+	<DankPyon_Floor_Lys_Black.label>black lys tile</DankPyon_Floor_Lys_Black.label>
+	<DankPyon_Floor_Lys_White.label>white lys tile</DankPyon_Floor_Lys_White.label>
 
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Green</defName>
-		<label>green lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Green</texturePath>
-	</TerrainDef>
+	<!-- Diamond Lys Floor Base 
 
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Brown</defName>
-		<label>brown lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Brown</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Black</defName>
-		<label>black lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Black</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_White</defName>
-		<label>white lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_White</texturePath>
-	</TerrainDef>
-	
-	<!-- <TerrainDef ParentName="DankPyon_Floor_Lys_Base">
-		<defName>DankPyon_Floor_Lys_Paintable</defName>
-		<label>paintable lys tile</label>
-		<texturePath>Terrain/CeramicFloors/Lys/Lys_Paintable</texturePath>
-	</TerrainDef> -->
-
-	<!-- Diamond Lys Floor Base -->
-	<TerrainDef Abstract="true" ParentName="DankPyon_Floor_Lys_Base" Name="DankPyon_Floor_DiamondLys_Base">
-		<designatorDropdown>DankPyon_Floor_DiamondLys</designatorDropdown>
-	</TerrainDef>
+	<DankPyon_Floor_DiamondLys_Base.description></DankPyon_Floor_DiamondLys_Base.description>  -->
 
 	<!-- Diamond Lys Floor Defs-->
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_Red</defName>
-		<label>red diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_Red</texturePath>
-	</TerrainDef>
 
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_Blue</defName>
-		<label>blue diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_Blue</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_Green</defName>
-		<label>green diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_Green</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_Brown</defName>
-		<label>brown diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_Brown</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_Black</defName>
-		<label>black diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_Black</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_DiamondLys_Base">
-		<defName>DankPyon_Floor_DiamondLys_White</defName>
-		<label>white diamond lys tile</label>
-		<texturePath>Terrain/CeramicFloors/DiamondLys/DiamondLys_White</texturePath>
-	</TerrainDef>
-
-	<!-- Circle Lys Floor Base -->
-	<TerrainDef Abstract="true" ParentName="DankPyon_Floor_Lys_Base" Name="DankPyon_Floor_CircleLys_Base">
-		<designatorDropdown>DankPyon_Floor_CircleLys</designatorDropdown>
-	</TerrainDef>
+	<DankPyon_Floor_DiamondLys_Red.label>red diamond lys tile</DankPyon_Floor_DiamondLys_Red.label>
+	<DankPyon_Floor_DiamondLys_Blue.label>blue diamond lys tile</DankPyon_Floor_DiamondLys_Blue.label>
+	<DankPyon_Floor_DiamondLys_Green.label>green diamond lys tile</DankPyon_Floor_DiamondLys_Green.label>
+	<DankPyon_Floor_DiamondLys_Brown.label>brown diamond lys tile</DankPyon_Floor_DiamondLys_Brown.label>
+	<DankPyon_Floor_DiamondLys_Black.label>black diamond lys tile</DankPyon_Floor_DiamondLys_Black.label>
+	<DankPyon_Floor_DiamondLys_White.label>white diamond lys tile</DankPyon_Floor_DiamondLys_White.label>
 
 	<!-- Circle Lys Floor Defs-->
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_Red</defName>
-		<label>red circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_Red</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_Blue</defName>
-		<label>blue circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_Blue</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_Green</defName>
-		<label>green circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_Green</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_Brown</defName>
-		<label>brown circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_Brown</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_Black</defName>
-		<label>black circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_Black</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CircleLys_Base">
-		<defName>DankPyon_Floor_CircleLys_White</defName>
-		<label>white circle lys tile</label>
-		<texturePath>Terrain/CeramicFloors/CircleLys/CircleLys_White</texturePath>
-	</TerrainDef>
-
-	<!-- Circle Lys Floor Base -->
-	<TerrainDef Abstract="true" ParentName="DankPyon_Floor_Lys_Base" Name="DankPyon_Floor_CheckeredLysStar_Base">
-		<designatorDropdown>DankPyon_Floor_CheckeredLysStar</designatorDropdown>
-	</TerrainDef>
-
+	<DankPyon_Floor_CircleLys_Red.label>red circle lys tile</DankPyon_Floor_CircleLys_Red.label>
+	<DankPyon_Floor_CircleLys_Blue.label>blue circle lys tile</DankPyon_Floor_CircleLys_Blue.label>
+	<DankPyon_Floor_CircleLys_Green.label>green circle lys tile</DankPyon_Floor_CircleLys_Green.label>
+	<DankPyon_Floor_CircleLys_Brown.label>brown circle lys tile</DankPyon_Floor_CircleLys_Brown.label>
+	<DankPyon_Floor_CircleLys_Black.label>black circle lys tile</DankPyon_Floor_CircleLys_Black.label>
+	<DankPyon_Floor_CircleLys_White.label>white circle lys tile</DankPyon_Floor_CircleLys_White.label>
+	
 	<!-- Circle Lys Floor Defs-->
-	<TerrainDef ParentName="DankPyon_Floor_CheckeredLysStar_Base">
-		<defName>DankPyon_Floor_CheckeredLysStar_Red</defName>
-		<label>red-blue checkered lys-star tile</label>
-		<texturePath>Terrain/CeramicFloors/CheckeredLysStar/CheckeredLysStar_RedBlue</texturePath>
-	</TerrainDef>
 
-	<TerrainDef ParentName="DankPyon_Floor_CheckeredLysStar_Base">
-		<defName>DankPyon_Floor_CheckeredLysStar_Blue</defName>
-		<label>green-red checkered lys-star tile</label>
-		<texturePath>Terrain/CeramicFloors/CheckeredLysStar/CheckeredLysStar_GreenRed</texturePath>
-	</TerrainDef>
+	<DankPyon_Floor_CheckeredLysStar_Red.label>red-blue checkered lys-star tile</DankPyon_Floor_CheckeredLysStar_Red.label>
+	<DankPyon_Floor_CheckeredLysStar_Blue.label>green-red checkered lys-star tile</DankPyon_Floor_CheckeredLysStar_Blue.label>
+	<DankPyon_Floor_CheckeredLysStar_Green.label>blue-brown checkered lys-star tile</DankPyon_Floor_CheckeredLysStar_Green.label>
+	<DankPyon_Floor_CheckeredLysStar_Brown.label>black-white checkered lys-star tile</DankPyon_Floor_CheckeredLysStar_Brown.label>
 
-	<TerrainDef ParentName="DankPyon_Floor_CheckeredLysStar_Base">
-		<defName>DankPyon_Floor_CheckeredLysStar_Green</defName>
-		<label>blue-brown checkered lys-star tile</label>
-		<texturePath>Terrain/CeramicFloors/CheckeredLysStar/CheckeredLysStar_BlueBrown</texturePath>
-	</TerrainDef>
-
-	<TerrainDef ParentName="DankPyon_Floor_CheckeredLysStar_Base">
-		<defName>DankPyon_Floor_CheckeredLysStar_Brown</defName>
-		<label>black-white checkered lys-star tile</label>
-		<texturePath>Terrain/CeramicFloors/CheckeredLysStar/CheckeredLysStar_BlackWhite</texturePath>
-	</TerrainDef>
-
-
-</Defs>
+</LanguageData>

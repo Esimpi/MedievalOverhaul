@@ -1,27 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_TavernOwnerStart.label>Proprietário de Taverna</DankPyon_TavernOwnerStart.label>
-  <DankPyon_TavernOwnerStart.description>As paredes de uma cidade nunca foram reconfortantes. Nem a agitação da vida urbana que poderia sugar a alma de um lich, com o tempo. As oportunidades que você encontrou foram inadequadas para você por tantos motivos: um, falta de preparação física, enquanto outro, falta de coração.
+  <DankPyon_TavernOwnerStart.label>Tavern Owner</DankPyon_TavernOwnerStart.label>
+  <DankPyon_TavernOwnerStart.description>The walls of a city were never reassuring. Neither was the bustle of urban life that could suck the soul out of a lich, given time. What opportunities you could find were unsuitable for you for so many, many reasons: one, a lack of fitness, while another a lack of heartlessness.
 
-      Foi este lugar que te disse para partir com matérias-primas e ferramentas simples para modelar o teu sonho. Pois você aspirava um lar na floresta, uma lareira que poderia acolher muitos viajantes cansados e exaustos. trapaceiro ou herói.
-      
-      Com qualquer esperança, vem o risco, e isto era o que você não podia ignorar. Relatórios da guarnição local indicavam um aumento da presença de bandidos e o crime estava aumentando. Mesmo com os preparativos mais cuidadosos, um criminoso provavelmente seguira seu rastro.
-      
-      Mas você deu um salto de fé e cruzou o limite da cidade. Com a selva à frente e a traição atrás, você marcha para longe.
-      
-      Otimismo e preocupação embaçam sua testa.</DankPyon_TavernOwnerStart.description>
-  <DankPyon_TavernOwnerStart.scenario.name>Proprietário de Taverna</DankPyon_TavernOwnerStart.scenario.name>
-  <DankPyon_TavernOwnerStart.scenario.summary>Três colonos otimistas - experiência classica de RPG</DankPyon_TavernOwnerStart.scenario.summary>
-  <DankPyon_TavernOwnerStart.scenario.description>As paredes de uma cidade nunca foram reconfortantes. Nem a agitação da vida urbana que poderia sugar a alma de um lich, com o tempo. As oportunidades que você encontrou foram inadequadas para você por tantos motivos: um, falta de preparação física, enquanto outro, falta de coração.
-
-      Foi este lugar que te disse para partir com matérias-primas e ferramentas simples para modelar o teu sonho. Pois você aspirava um lar na floresta, uma lareira que poderia acolher muitos viajantes cansados e exaustos. trapaceiro ou herói.
-      
-      Com qualquer esperança, vem o risco, e isto era o que você não podia ignorar. Relatórios da guarnição local indicavam um aumento da presença de bandidos e o crime estava aumentando. Mesmo com os preparativos mais cuidadosos, um criminoso provavelmente seguira seu rastro.
-      
-      Mas você deu um salto de fé e cruzou o limite da cidade. Com a selva à frente e a traição atrás, você marcha para longe.
-      
-      Otimismo e preocupação embaçam sua testa.</DankPyon_TavernOwnerStart.scenario.description>
+    It was this environment that told you to leave, with but raw materials and simple tools to fashion your dream. For you aspired to a home out in the wilderness, a hearth that could welcome many a weary and worn traveler. Rogue or hero, it would shelter them all.
+    
+    With any hope comes risk, and this was one you could not ignore. Reports from the local garrison indicated an increased bandit presence, and crime was on the rise. Even with the most careful preparations, a criminal would most likely follow your trail.
+    
+    But you took the leap of faith, and stepped across the threshold of the city. With wilderness ahead and treachery behind, you march away.
+    
+    Optimism and worry cloud your brow.</DankPyon_TavernOwnerStart.description>
+  <DankPyon_TavernOwnerStart.scenario.summary>Three optimistic settlers - RPG trading experience</DankPyon_TavernOwnerStart.scenario.summary>
 
 
 </LanguageData>

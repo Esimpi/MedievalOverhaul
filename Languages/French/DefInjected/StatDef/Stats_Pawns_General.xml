@@ -1,20 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
 
-	<StatDef>
-		<defName>Dank_ToxicBuildupHediffFallRateMult</defName>
-		<label>hediff fall rate</label>
-		<description>Speed of movement in cells per second.</description>
-		<category>BasicsPawn</category>
-		<defaultBaseValue>1</defaultBaseValue>
-		<minValue>0</minValue>
-		<toStringStyle>FloatTwo</toStringStyle>
-		<displayPriorityInCategory>2500</displayPriorityInCategory>
-		<modExtensions>
-			<li Class="MedievalOverhaul.HediffFallRateMultiplier">
-				<hediffDef>ToxicBuildup</hediffDef>
-			</li>
-		</modExtensions>
-	</StatDef>
+    <Dank_ToxicBuildupHediffFallRateMult.label>hediff fall rate</Dank_ToxicBuildupHediffFallRateMult.label>
+    <Dank_ToxicBuildupHediffFallRateMult.description>Speed of movement in cells per second.</Dank_ToxicBuildupHediffFallRateMult.description>
 
-</Defs>
+</LanguageData>

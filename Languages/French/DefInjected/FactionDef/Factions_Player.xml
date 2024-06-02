@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_PlayerKingdom.label>Novo reino</DankPyon_PlayerKingdom.label>
-  <DankPyon_PlayerKingdom.description>Um pequeno reino.</DankPyon_PlayerKingdom.description>
+  <DankPyon_PlayerKingdom.label>New Kingdom</DankPyon_PlayerKingdom.label>
+  <DankPyon_PlayerKingdom.description>A small kingdom.</DankPyon_PlayerKingdom.description>
+  <DankPyon_PlayerKingdom.pawnSingular>subject</DankPyon_PlayerKingdom.pawnSingular>
   <DankPyon_PlayerKingdom.pawnsPlural>subjects</DankPyon_PlayerKingdom.pawnsPlural>
 
-  <DankPyon_LoneWolf.label>Novo reino</DankPyon_LoneWolf.label>
-  <DankPyon_LoneWolf.description>Um pequeno reino.</DankPyon_LoneWolf.description>
+  <DankPyon_LoneWolf.label>New Kingdom</DankPyon_LoneWolf.label>
+  <DankPyon_LoneWolf.description>A small kingdom.</DankPyon_LoneWolf.description>
+  <DankPyon_LoneWolf.pawnSingular>subject</DankPyon_LoneWolf.pawnSingular>
   <DankPyon_LoneWolf.pawnsPlural>subjects</DankPyon_LoneWolf.pawnsPlural>
+
+  <DankPyon_MercenaryCompany.label>New Mercenary Company</DankPyon_MercenaryCompany.label>
+  <DankPyon_MercenaryCompany.description>New Mercenary Company</DankPyon_MercenaryCompany.description>
+  <DankPyon_MercenaryCompany.pawnSingular>mercenary</DankPyon_MercenaryCompany.pawnSingular>
+  <DankPyon_MercenaryCompany.pawnsPlural>mercenaries</DankPyon_MercenaryCompany.pawnsPlural>
 
 </LanguageData>

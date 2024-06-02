@@ -1,11 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
-	<!-- For posts -->
-	<TerrainAffordanceDef>
-		<defName>DankPyon_GrowSoilVine</defName>
-		<label>soil</label>
-		<order>1400</order>
-	</TerrainAffordanceDef>
+  <DankPyon_GrowSoilVine.label>soil</DankPyon_GrowSoilVine.label>
 
-</Defs>
+</LanguageData>

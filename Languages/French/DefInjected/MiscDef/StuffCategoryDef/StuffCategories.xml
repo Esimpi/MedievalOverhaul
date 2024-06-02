@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Hide.label>esconder</DankPyon_Hide.label>
-  <DankPyon_StoneChunky.label>pedaço de pedra</DankPyon_StoneChunky.label>
+  <DankPyon_Hide.label>hide</DankPyon_Hide.label>
+  <DankPyon_RawWood.label>raw wood</DankPyon_RawWood.label>
+  <DankPyon_Gems.label>gems</DankPyon_Gems.label>
 
 </LanguageData>

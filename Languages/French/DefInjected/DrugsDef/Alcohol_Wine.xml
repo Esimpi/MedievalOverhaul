@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Wine.label>vinho</DankPyon_Wine.label>
-  <DankPyon_Wine.description>Licor de muitas faces. As safras antigas são bebidas deliciosas destinadas a conhecedores e línguas exigentes - posição obrigatória em festas reais e festas de máscaras. Os mais recentes costumam ser vendidos aos camponeses em pousadas à beira da estrada, diluídos em água tanto quanto a consciência dos taverneiro permite.</DankPyon_Wine.description>
-  <DankPyon_Wine.tools.0.label>garrafa</DankPyon_Wine.tools.0.label>
-  <DankPyon_Wine.tools.1.label>gargalo</DankPyon_Wine.tools.1.label>
+  <DankPyon_Wine.label>vin</DankPyon_Wine.label>
+  <DankPyon_Wine.description>Liqueur de nombreux visages. Old vintages are dainty drinks intended for connoisseurs and rather finicky tongues - mandatory positions at royal parties, feasts and masquerades. Younger are often sold to peasants in roadside inns, diluted with water as much as innkeepers conscience allows.</DankPyon_Wine.description>
   <DankPyon_Wine.ingestible.ingestCommandString>Beber {0}</DankPyon_Wine.ingestible.ingestCommandString>
   <DankPyon_Wine.ingestible.ingestReportString>Bebendo {0}.</DankPyon_Wine.ingestible.ingestReportString>
 
-  <DankPyon_MustWine.label>mosto de uva</DankPyon_MustWine.label>
-  <DankPyon_MustWine.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_MustWine.description>
+  <DankPyon_MustWine.label>grape must</DankPyon_MustWine.label>
+  <DankPyon_MustWine.description>Crushed grapes. Needs to undergo fermentation in a rustic fermenting barrel in order to become wine.</DankPyon_MustWine.description>
 
 	<!--================== Mulberry Wine ==================-->
 
-	<DankPyon_Wine_Mulberry.label>mosto de uva</DankPyon_Wine_Mulberry.label>
-	<DankPyon_Wine_Mulberry.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_Wine_Mulberry.description>
+	<DankPyon_Wine_Mulberry.label>mulberry wine</DankPyon_Wine_Mulberry.label>
+	<DankPyon_Wine_Mulberry.description>Produced from the luscious bounty of mulberry orchards, often associated with the mulberry tree's role in nurturing silk worms. Aged vintages whisper tales of sophistication, beckoning connoisseurs with their intricate flavors, a staple of esteemed gatherings and royal banquets.</DankPyon_Wine_Mulberry.description>
 
-	<DankPyon_MustWine_Mulberry.label>mosto de uva</DankPyon_MustWine_Mulberry.label>
-	<DankPyon_MustWine_Mulberry.description>Uvas esmagadas. Precisa passar pela fermentação para se tornar vinho.</DankPyon_MustWine_Mulberry.description>
+	<DankPyon_MustWine_Mulberry.label>mulberry wine must</DankPyon_MustWine_Mulberry.label>
+	<DankPyon_MustWine_Mulberry.description>Crushed mulberries. Needs to undergo fermentation in a rustic fermenting barrel in order to become wine.</DankPyon_MustWine_Mulberry.description>
 
 	<!-- ================== Griffon Wine ================== -->
 
